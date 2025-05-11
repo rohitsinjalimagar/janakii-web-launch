@@ -1,4 +1,3 @@
-# janakii-web-launch
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,7 +38,7 @@
   </main>
 
   <footer>
-    <p>📍 Janakpur, Nepal | 📞 041-123456 | ✉️ info@janakimontessori.edu.np</p>
+    <p>📍 Pakali, Itahari-17,sunsari | 📞 9842460646 | ✉️ info@janakimontessori.edu.np</p>
     <p>© 2025 Janaki Montessori School</p>
   </footer>
 </body>
